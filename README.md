@@ -57,3 +57,19 @@ The workbook/report currently uses trade records alongside supporting calendar, 
 ## Disclaimer
 
 This project is for personal performance analysis and portfolio demonstration. It is not financial advice and does not guarantee trading results.
+
+## Dashboard Screenshots
+
+The following screenshots showcase the three pages of the Power BI trading journal dashboard.
+
+### 1. Overview
+
+![Trading Journal Overview](overview_trading%20jurnal.png)
+
+### 2. Performance Analysis
+
+![Trading Journal Performance Analysis](performance_analysis_trading%20jurnal.png)
+
+### 3. Trade Analysis
+
+![Trading Journal Trade Analysis](trade_analysis_trading%20jurnal.png)
