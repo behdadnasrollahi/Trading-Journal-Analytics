@@ -72,4 +72,4 @@ The following screenshots showcase the three pages of the Power BI trading journ
 
 ### 3. Trade Analysis
 
-![trade_analysis](trade_analysis_trading%20jurnal.png)
+![Trading Journal Trade Analysis](trade_analysis_trading%20journal.png)
